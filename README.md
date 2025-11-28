@@ -1,4 +1,8 @@
-# sv
+# About this project
+
+This is meant to be a combination of meal planning and grocery list app.
+
+## sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
